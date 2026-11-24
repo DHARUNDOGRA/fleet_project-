@@ -1,0 +1,11 @@
+vehicle_id,reg_no,vehicle_type,model,year,fuel_type,tank_capacity_l,rated_kmpl
+V01,MH15AB1101,Mini Truck,Tata Ace Gold,2021,Diesel,30,18.0
+V02,MH15AB1102,Mini Truck,Tata Ace Gold,2020,Diesel,30,18.0
+V03,MH15CD2203,Pickup,Mahindra Bolero Pik-Up,2022,Diesel,60,14.0
+V04,MH15CD2204,Pickup,Mahindra Bolero Pik-Up,2018,Diesel,60,14.0
+V05,MH15EF3305,LCV,Ashok Leyland Dost,2021,Diesel,50,13.0
+V06,MH15EF3306,LCV,Eicher Pro 2049,2022,Diesel,100,11.0
+V07,MH15EF3307,LCV,Tata 407,2017,Diesel,90,10.0
+V08,MH15GH4408,Medium Truck,Tata 1109,2019,Diesel,200,7.0
+V09,MH15JK5509,Cargo Van,Maruti Eeco Cargo,2023,Petrol,32,15.5
+V10,MH15JK5510,Cargo Van,Force Traveller Cargo,2020,Diesel,70,10.5

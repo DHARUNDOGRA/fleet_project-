@@ -1,0 +1,63 @@
+record_type,record_id,vehicle_id,date,issue,details,action
+FUEL,F0346,V01,2026-01-08,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0002,Removed (duplicate)
+TRIP,T0011,V01,2026-01-23,NONPOSITIVE_DISTANCE,odometer 36094 -> 36138 km; reported distance 0.0 km,Excluded from calculations until verified
+FUEL,F0340,V01,2026-03-10,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0015,Removed (duplicate)
+FUEL,F0341,V01,2026-04-22,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0027,Removed (duplicate)
+FUEL,F0333,V01,2026-05-13,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0034,Removed (duplicate)
+FUEL,F0353,V01,2026-06-21,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0043,Removed (duplicate)
+FUEL,F0329,V02,2026-01-21,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0052,Removed (duplicate)
+FUEL,F0354,V02,2026-02-06,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0057,Removed (duplicate)
+TRIP,T0129,V02,2026-03-17,DISTANCE_ODOMETER_MISMATCH,odometer 60690 -> 60869 km; reported distance 1792.0 km,Excluded from calculations until verified
+FUEL,F0345,V02,2026-04-09,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0070,Removed (duplicate)
+FUEL,F0355,V02,2026-05-25,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0081,Removed (duplicate)
+FUEL,F0330,V02,2026-06-03,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0083,Removed (duplicate)
+FUEL,F0342,V03,2026-02-02,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0095,Removed (duplicate)
+FUEL,F0348,V03,2026-04-04,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0103,Removed (duplicate)
+TRIP,T0249,V03,2026-05-14,DISTANCE_ODOMETER_MISMATCH,odometer 61996 -> 62177 km; reported distance 99.6 km,Excluded from calculations until verified
+TRIP,T0252,V03,2026-05-19,ODOMETER_BACKWARD,odometer 55380 -> 55582 km; reported distance 202.1 km,Excluded from calculations until verified
+TRIP,T0253,V03,2026-05-21,ODOMETER_JUMP,odometer 62775 -> 62818 km; reported distance 43.3 km,Excluded from calculations until verified
+TRIP,T0266,V03,2026-06-15,ODOMETER_BACKWARD,odometer 56839 -> 56886 km; reported distance 46.7 km,Excluded from calculations until verified
+TRIP,T0286,V04,2026-01-25,ODOMETER_JUMP,odometer 56913 -> 57129 km; reported distance 216.1 km,Excluded from calculations until verified
+FUEL,F0331,V04,2026-03-24,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0134,Removed (duplicate)
+TRIP,T0325,V04,2026-04-17,ODOMETER_BACKWARD,odometer 56124 -> 56219 km; reported distance 95.3 km,Excluded from calculations until verified
+TRIP,T0326,V04,2026-04-19,ODOMETER_JUMP,odometer 64097 -> 64140 km; reported distance 43.0 km,Excluded from calculations until verified
+TRIP,T0356,V04,2026-06-18,ODOMETER_JUMP,odometer 70620 -> 70836 km; reported distance 216.0 km,Excluded from calculations until verified
+TRIP,T0359,V04,2026-06-23,ODOMETER_JUMP,odometer 72251 -> 72462 km; reported distance 210.8 km,Excluded from calculations until verified
+FUEL,F0350,V05,2026-01-26,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0157,Removed (duplicate)
+TRIP,T0382,V05,2026-02-09,DISTANCE_ODOMETER_MISMATCH,odometer 61688 -> 61736 km; reported distance 66.5 km,Excluded from calculations until verified
+FUEL,F0351,V05,2026-02-15,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0161,Removed (duplicate)
+FUEL,F0338,V05,2026-03-18,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0168,Removed (duplicate)
+TRIP,T0404,V05,2026-03-19,ODOMETER_BACKWARD,odometer 58407 -> 58570 km; reported distance 163.7 km,Excluded from calculations until verified
+TRIP,T0405,V05,2026-03-20,ODOMETER_JUMP,odometer 65436 -> 65483 km; reported distance 46.3 km,Excluded from calculations until verified
+TRIP,T0408,V05,2026-03-24,DISTANCE_ODOMETER_MISMATCH,odometer 65702 -> 65874 km; reported distance 94.7 km,Excluded from calculations until verified
+FUEL,F0171,V05,2026-03-31,PRICE_OUTLIER,39.4 L for Rs 38580 (Rs 978/L); tank 50 L,Excluded from calculations until verified
+TRIP,T0413,V05,2026-04-05,NONPOSITIVE_DISTANCE,odometer 66656 -> 66879 km; reported distance 0.0 km,Excluded from calculations until verified
+FUEL,F0334,V05,2026-05-31,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0182,Removed (duplicate)
+TRIP,T0466,V06,2026-02-01,DISTANCE_ODOMETER_MISMATCH,odometer 51457 -> 51620 km; reported distance 228.3 km,Excluded from calculations until verified
+FUEL,F0347,V07,2026-01-16,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0207,Removed (duplicate)
+FUEL,F0212,V07,2026-02-17,PRICE_OUTLIER,63.4 L for Rs 58330 (Rs 920/L); tank 90 L,Excluded from calculations until verified
+TRIP,T0562,V07,2026-02-26,DISTANCE_ODOMETER_MISMATCH,odometer 71595 -> 71788 km; reported distance 269.6 km,Excluded from calculations until verified
+FUEL,F0335,V07,2026-03-24,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0218,Removed (duplicate)
+FUEL,F0328,V07,2026-03-28,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0219,Removed (duplicate)
+TRIP,T0580,V07,2026-04-03,ODOMETER_BACKWARD,odometer 70602 -> 70649 km; reported distance 47.1 km,Excluded from calculations until verified
+TRIP,T0592,V07,2026-04-29,ODOMETER_JUMP,odometer 78432 -> 78602 km; reported distance 169.4 km,Excluded from calculations until verified
+FUEL,F0344,V07,2026-06-12,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0230,Removed (duplicate)
+TRIP,T0615,V07,2026-06-15,ODOMETER_JUMP,odometer 82642 -> 82687 km; reported distance 44.6 km,Excluded from calculations until verified
+FUEL,F0339,V08,2026-01-09,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0235,Removed (duplicate)
+FUEL,F0242,V08,2026-03-28,FUEL_EXCEEDS_TANK,1495.0 L for Rs 13617 (Rs 9/L); tank 200 L,Excluded from calculations until verified
+FUEL,F0242,V08,2026-03-28,PRICE_OUTLIER,1495.0 L for Rs 13617 (Rs 9/L); tank 200 L,Excluded from calculations until verified
+TRIP,T0671,V08,2026-04-03,ODOMETER_BACKWARD,odometer 66542 -> 66710 km; reported distance 168.2 km,Excluded from calculations until verified
+TRIP,T0672,V08,2026-04-04,ODOMETER_JUMP,odometer 73168 -> 73211 km; reported distance 42.7 km,Excluded from calculations until verified
+FUEL,F0252,V09,2026-01-03,FUEL_EXCEEDS_TANK,267.3 L for Rs 2746 (Rs 10/L); tank 32 L,Excluded from calculations until verified
+FUEL,F0252,V09,2026-01-03,PRICE_OUTLIER,267.3 L for Rs 2746 (Rs 10/L); tank 32 L,Excluded from calculations until verified
+TRIP,T0720,V09,2026-01-11,DISTANCE_ODOMETER_MISMATCH,odometer 86133 -> 86237 km; reported distance 145.0 km,Excluded from calculations until verified
+TRIP,T0736,V09,2026-02-11,ODOMETER_BACKWARD,odometer 83069 -> 83170 km; reported distance 101.1 km,Excluded from calculations until verified
+TRIP,T0737,V09,2026-02-14,ODOMETER_JUMP,odometer 88806 -> 89007 km; reported distance 201.1 km,Excluded from calculations until verified
+FUEL,F0332,V09,2026-02-21,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0264,Removed (duplicate)
+FUEL,F0337,V09,2026-05-14,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0285,Removed (duplicate)
+TRIP,T0784,V09,2026-05-20,ODOMETER_JUMP,odometer 97283 -> 97528 km; reported distance 244.7 km,Excluded from calculations until verified
+FUEL,F0352,V10,2026-01-04,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0299,Removed (duplicate)
+FUEL,F0336,V10,2026-03-30,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0313,Removed (duplicate)
+TRIP,T0852,V10,2026-04-06,DISTANCE_ODOMETER_MISMATCH,odometer 54592 -> 54772 km; reported distance 1800.0 km,Excluded from calculations until verified
+FUEL,F0349,V10,2026-06-24,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0326,Removed (duplicate)
+FUEL,F0343,V10,2026-06-29,DUPLICATE_FUEL_ENTRY,same vehicle/date/litres/cost as F0327,Removed (duplicate)
